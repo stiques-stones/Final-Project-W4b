@@ -59,7 +59,7 @@ main{
     height: 600px;
     width: 100%;
     background-color: burlywood;
-    background-image: url('/img/mainpic.jpeg');
+    background-image: url('/img/backgroundimage.jpeg');
     background-size: cover;
     background-position: center;
 
@@ -95,8 +95,12 @@ main{
     text-align: center;
     padding: 30px px;
     border: 1px solid antiquewhite; 
+}
+.column img{
+    border-radius: 25%;
+}
    
-}   
+  
 
 .article {
     font-family: 'Amita', cursive;
