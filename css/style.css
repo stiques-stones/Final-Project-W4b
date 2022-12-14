@@ -59,10 +59,15 @@ main{
     height: 600px;
     width: 100%;
 
-    background-image: url('/img/backgroundmain.jpeg');
+    background-image: url('/img/backgroundimage.jpeg');
     background-size: cover;
     background-position: center;
 
+}
+
+.main img{
+    height: 600px;
+    width: 100%;
 }
 .heroText{
     width: 400px;
