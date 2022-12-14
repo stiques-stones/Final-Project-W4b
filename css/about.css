@@ -58,8 +58,9 @@ na ul a li:active{
 main{
     height: 600px;
     width: 100%;
-    background-color: burlywood;
-    background-image: url('/img/aboutbackground.jpeg');
+    background-color: rgb(233,209,178);
+    background: linear-gradient(90deg, rgba(233,209,178,1) 0%, rgba(235,198,165,1) 30%, rgba(255,229,181,1) 57%, rgba(237,194,177,1) 100%);
+    
     background-size: cover;
     background-position: center;
 }
