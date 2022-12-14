@@ -58,7 +58,6 @@ na ul a li:active{
 main{
     height: 600px;
     width: 100%;
-
     background-image: url('/img/backgroundimage.jpeg');
     background-size: cover;
     background-position: center;
