@@ -58,7 +58,7 @@ na ul a li:active{
 main{
     height: 600px;
     width: 100%;
-    background-image: url('/img/scissorsbackgroud.jpg');
+    background-image: url('../img/scissorsbackgroud.jpg');
     background-size: cover;
     background-position: center;
 
