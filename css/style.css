@@ -60,7 +60,9 @@ main{
     width: 100%;
     background-image: url('../img/scissorsbackgroud.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: top;
+    
+
 
 }
 
